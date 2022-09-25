@@ -1,6 +1,3 @@
-#Bushra Amjad
-#i21-2083
-
 #A histogram to visualize the age 
 hist(AustinCityLimits$Age)
 
