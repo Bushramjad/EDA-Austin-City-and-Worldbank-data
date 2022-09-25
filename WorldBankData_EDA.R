@@ -1,6 +1,3 @@
-#Bushra Amjad
-#i21-2083
-
 #importing dataset
 WorldBankData <- read.csv("~/Downloads/WorldBankData.csv")
 
